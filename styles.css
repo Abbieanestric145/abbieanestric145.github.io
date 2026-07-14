@@ -1,1 +1,13 @@
+.flexbox-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
 
+
+
+.flexbox-item {
+    min-width:500px;
+    margin:100px;
+}
