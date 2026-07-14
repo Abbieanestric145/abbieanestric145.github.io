@@ -8,6 +8,7 @@
 
 
 .flexbox-item {
-    max-width:500px;
-    margin:100px;
+    width:33%;
+    height:auto;
+    margin:5px;
 }
